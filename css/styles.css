@@ -144,6 +144,8 @@ align-items: center;
 background-size: cover;
 background-position: center;
 background: var(--NAVY-BLUE, #2E2F42);
+background-image: linear-gradient(rgba(46, 47, 66, 0.70),rgba(46, 47, 66, 0.70)), url('../hero/bg.jpg.jpg');
+background-size: cover;
 }
 
 .name-main-section {
