@@ -486,6 +486,10 @@ padding-right: 15px;
 margin-left: 156px;
 }
 
+.container{
+margin-right: 120px;
+}
+
 .footer-blok {
 display: flex;
 align-items: baseline;
@@ -534,10 +538,6 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: var(--CLOUD, #F4F4FD);
-}
-
-.container-social-item{
-
 }
 
 .social-media-item{
